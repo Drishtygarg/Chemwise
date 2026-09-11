@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Hydrochloric Acid",
+    "formula": "HCl",
+    "category": "Acid",
+    "description": "A strong, corrosive acid commonly used in titrations and metal cleaning.",
+    "properties": "Colorless to pale yellow liquid; pungent odor; highly soluble in water.",
+    "safety_notes": "Corrosive. Causes severe skin burns and eye damage. Use gloves and goggles."
+  },
+  {
+    "name": "Sodium Hydroxide",
+    "formula": "NaOH",
+    "category": "Base",
+    "description": "A strong base widely used in titrations, saponification, and pH adjustment.",
+    "properties": "White solid or solution; highly soluble in water; exothermic on dissolving.",
+    "safety_notes": "Corrosive. Causes severe skin burns and eye damage."
+  },
+  {
+    "name": "Silver Nitrate",
+    "formula": "AgNO3",
+    "category": "Salt",
+    "description": "Used to test for halide ions via precipitation reactions.",
+    "properties": "Colorless crystalline solid; soluble in water; light-sensitive.",
+    "safety_notes": "Oxidizer. Stains skin and clothing. Avoid contact with light and organic matter."
+  },
+  {
+    "name": "Sodium Chloride",
+    "formula": "NaCl",
+    "category": "Salt",
+    "description": "Common table salt, frequently used as a source of chloride ions.",
+    "properties": "White crystalline solid; freely soluble in water.",
+    "safety_notes": "Low hazard. Avoid ingestion of laboratory-grade material."
+  },
+  {
+    "name": "Copper(II) Sulfate",
+    "formula": "CuSO4",
+    "category": "Salt",
+    "description": "A blue salt used in displacement reactions and electroplating demonstrations.",
+    "properties": "Blue crystalline solid; soluble in water forming a blue solution.",
+    "safety_notes": "Harmful if swallowed. Irritant to skin and eyes."
+  },
+  {
+    "name": "Zinc",
+    "formula": "Zn",
+    "category": "Metal",
+    "description": "A reactive metal used to demonstrate single displacement reactions.",
+    "properties": "Bluish-grey solid metal; reacts with acids releasing hydrogen gas.",
+    "safety_notes": "Flammable as powder/dust. Bulk metal is low hazard."
+  },
+  {
+    "name": "Sulfuric Acid",
+    "formula": "H2SO4",
+    "category": "Acid",
+    "description": "A strong dibasic acid used in neutralization and dehydration reactions.",
+    "properties": "Colorless, oily, highly corrosive liquid; strongly exothermic with water.",
+    "safety_notes": "Highly corrosive. Always add acid to water, never the reverse."
+  },
+  {
+    "name": "Sodium Carbonate",
+    "formula": "Na2CO3",
+    "category": "Salt",
+    "description": "A mild base used to demonstrate acid-carbonate reactions releasing CO2.",
+    "properties": "White solid; soluble in water forming a mildly alkaline solution.",
+    "safety_notes": "Irritant to eyes and skin in concentrated form."
+  },
+  {
+    "name": "Barium Chloride",
+    "formula": "BaCl2",
+    "category": "Salt",
+    "description": "Used to test for sulfate ions via precipitation.",
+    "properties": "White crystalline solid; soluble in water.",
+    "safety_notes": "Toxic if ingested. Handle with gloves."
+  },
+  {
+    "name": "Potassium Iodide",
+    "formula": "KI",
+    "category": "Salt",
+    "description": "A source of iodide ions used in precipitation and redox demonstrations.",
+    "properties": "White crystalline solid; soluble in water.",
+    "safety_notes": "Low hazard. Avoid prolonged skin contact."
+  },
+  {
+    "name": "Lead(II) Nitrate",
+    "formula": "Pb(NO3)2",
+    "category": "Salt",
+    "description": "Used to demonstrate double displacement reactions producing lead halide precipitates.",
+    "properties": "White crystalline solid; soluble in water.",
+    "safety_notes": "Toxic. Contains lead; avoid ingestion and skin contact."
+  },
+  {
+    "name": "Magnesium",
+    "formula": "Mg",
+    "category": "Metal",
+    "description": "A reactive metal that burns brightly and reacts readily with dilute acids.",
+    "properties": "Silvery-white solid metal; ribbon or powder form.",
+    "safety_notes": "Flammable, especially as powder/ribbon. Do not look directly at burning magnesium."
+  }
+]

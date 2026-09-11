@@ -1,0 +1,74 @@
+[
+  {
+    "chemical_a_formula": "HCl",
+    "chemical_b_formula": "NaOH",
+    "reaction_type": "Neutralization",
+    "equation": "HCl + NaOH \u2192 NaCl + H2O",
+    "products": "Sodium chloride, Water",
+    "observations": "Solution warms slightly (exothermic). No visible precipitate or gas.",
+    "safety_level": "Moderate"
+  },
+  {
+    "chemical_a_formula": "AgNO3",
+    "chemical_b_formula": "NaCl",
+    "reaction_type": "Double Displacement (Precipitation)",
+    "equation": "AgNO3 + NaCl \u2192 AgCl\u2193 + NaNO3",
+    "products": "Silver chloride (precipitate), Sodium nitrate",
+    "observations": "A white curdy precipitate of silver chloride forms immediately.",
+    "safety_level": "Moderate"
+  },
+  {
+    "chemical_a_formula": "Zn",
+    "chemical_b_formula": "HCl",
+    "reaction_type": "Single Displacement",
+    "equation": "Zn + 2HCl \u2192 ZnCl2 + H2\u2191",
+    "products": "Zinc chloride, Hydrogen gas",
+    "observations": "Bubbles of hydrogen gas form on the zinc surface; flask feels warm.",
+    "safety_level": "High"
+  },
+  {
+    "chemical_a_formula": "Na2CO3",
+    "chemical_b_formula": "HCl",
+    "reaction_type": "Acid-Carbonate Reaction",
+    "equation": "Na2CO3 + 2HCl \u2192 2NaCl + H2O + CO2\u2191",
+    "products": "Sodium chloride, Water, Carbon dioxide gas",
+    "observations": "Effervescence (fizzing) is observed as CO2 gas is released.",
+    "safety_level": "Moderate"
+  },
+  {
+    "chemical_a_formula": "BaCl2",
+    "chemical_b_formula": "H2SO4",
+    "reaction_type": "Double Displacement (Precipitation)",
+    "equation": "BaCl2 + H2SO4 \u2192 BaSO4\u2193 + 2HCl",
+    "products": "Barium sulfate (precipitate), Hydrochloric acid",
+    "observations": "A dense white precipitate of barium sulfate forms.",
+    "safety_level": "High"
+  },
+  {
+    "chemical_a_formula": "Pb(NO3)2",
+    "chemical_b_formula": "KI",
+    "reaction_type": "Double Displacement (Precipitation)",
+    "equation": "Pb(NO3)2 + 2KI \u2192 PbI2\u2193 + 2KNO3",
+    "products": "Lead(II) iodide (bright yellow precipitate), Potassium nitrate",
+    "observations": "A striking bright yellow precipitate forms, sometimes called the 'golden rain' reaction.",
+    "safety_level": "High"
+  },
+  {
+    "chemical_a_formula": "Mg",
+    "chemical_b_formula": "H2SO4",
+    "reaction_type": "Single Displacement",
+    "equation": "Mg + H2SO4 \u2192 MgSO4 + H2\u2191",
+    "products": "Magnesium sulfate, Hydrogen gas",
+    "observations": "Vigorous bubbling and heat release as hydrogen gas is produced.",
+    "safety_level": "High"
+  },
+  {
+    "chemical_a_formula": "CuSO4",
+    "chemical_b_formula": "Zn",
+    "reaction_type": "Single Displacement (Redox)",
+    "equation": "CuSO4 + Zn \u2192 ZnSO4 + Cu",
+    "products": "Zinc sulfate, Copper (reddish deposit)",
+    "observations": "Blue color of the solution fades as reddish copper metal deposits on the zinc.",
+    "safety_level": "Moderate"
+  }
+]
